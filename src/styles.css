@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.listItem div {
+  text-align: center;
+  padding: 5px;
+}
+.ListItem {
+  text-align: center;
+  border-radius: 20px;
+}
+a {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding-bottom: 3px;
+}
+img {
+  height: 25px;
+  margin-top: 2px;
+  padding: 0px 6px;
+}
+.introdiv {
+  width: 65%;
+  border-radius: 10px;
+  margin-left: 20%;
+  background-color: lightsalmon;
+
+  /* background-clip: padding-box; */
+}
+
+.introdiv1 {
+  /* margin-left:20%; */
+  border-radius: 20px;
+  background-color: rgb(242, 250, 166);
+}
+h3 {
+  /* width: ; */
+  border-radius: 30px;
+  background-color: beige;
+  margin-top: 0px;
+}
+.intro {
+  /* width: 65%; */
+  /* display:flex; */
+  margin-top: 50px;
+  /* margin-left: 20%; */
+  border-radius: 30px;
+  border-top-left-radius: 30px;
+  border-end-end-radius: 30px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: inherit;
+  font-family: monospace;
+  font-size: 13px;
+  display: block;
+  background-color: aquamarine;
+}
